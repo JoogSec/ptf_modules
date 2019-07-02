@@ -1,4 +1,5 @@
-# ptf The Penetration Testers Framework
+# The Penetration Testers Framework Module
+Here you can find custom Modules for the Penetration Tester Framework https://github.com/trustedsec/ptf.
 
 This Framework helps you to organize your Penetest Tool. It's a real nice tool and easy to use. Any time I found a new tool which I can use for my panties project I make a module which can be downloaded here. Same as the framework warns I want to warn as well here:
 
