@@ -10,5 +10,5 @@ After you downloaded the files from https://github.com/trustedsec/ptf you will f
 
 ## Overview ##
 | Module        | Description   |
-| ------------- |:-------------:|
+|:-------------|-------------|
 |Proxmark3      |Proxmark3 RDV4.0 Dedicated. Tools and firmware are for the RDV4.0 to read, write and clone 13,6MHZ or 125KHZ cards. More dedails could be found at [RfidResearchGroup](https://github.com/RfidResearchGroup/proxmark3)|
